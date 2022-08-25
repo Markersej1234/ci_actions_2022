@@ -6,7 +6,7 @@ import java.sql.SQLException;
 
 public class DBconnector
 {
-    private static String URL = "jdbc:mysql://localhost:3306/startcode_test?serverTimezone=Europe/Copenhagen";
+    private static String URL = "jdbc:mysql://157.230.27.154:3306/startcode_test?serverTimezone=Europe/Copenhagen";
     private static String USER = "mark";
     private static String PW = "root";
 
